@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "passport": "^0.7.0",
+    "passport-steam": "^1.0.18"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
